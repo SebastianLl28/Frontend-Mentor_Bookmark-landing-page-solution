@@ -4,7 +4,7 @@
 ![](./design/desktop.png)
 
 ## Laptop
-![](./design/laptop.png.png)
+![](./design/laptop.png)
 
 ## mobile
 ![](./design/phone.png)
